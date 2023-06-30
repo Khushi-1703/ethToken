@@ -29,4 +29,5 @@ Once the contract is deployed, you can interact with it by calling mint and burn
 AUTHORS
 
 Khushi Gupta
+
 Khushi-1703
